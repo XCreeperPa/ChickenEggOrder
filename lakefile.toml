@@ -1,0 +1,10 @@
+name = "ChickenEggOrder"
+version = "0.1.0"
+defaultTargets = ["chickeneggorder"]
+
+[[lean_lib]]
+name = "ChickenEggOrder"
+
+[[lean_exe]]
+name = "chickeneggorder"
+root = "Main"
